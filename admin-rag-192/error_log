@@ -1,0 +1,481 @@
+[21-Apr-2022 02:14:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 64
+[21-Apr-2022 02:14:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:17:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:17:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:18:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:19:49 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:20:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:21:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:26:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:26:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:27:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:32:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:33:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:33:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:34:06 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:34:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:34:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 64
+[21-Apr-2022 02:34:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:34:59 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:34:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:46:23 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:46:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:46:26 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:46:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:46:28 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/register.php on line 150
+[21-Apr-2022 02:46:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/addschool.php on line 128
+[21-Apr-2022 02:46:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/export_data.php on line 35
+[21-Apr-2022 02:46:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/student-data.php on line 316
+[21-Apr-2022 02:46:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/qualified-list.php on line 32
+[21-Apr-2022 02:46:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/disqualified-list.php on line 35
+[21-Apr-2022 02:46:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/mail-verified.php on line 76
+[21-Apr-2022 02:48:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 64
+[21-Apr-2022 02:49:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:49:50 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:49:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:50:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 64
+[21-Apr-2022 02:56:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:56:57 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:56:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:57:03 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:57:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 02:57:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 53
+[21-Apr-2022 02:59:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 7
+[21-Apr-2022 02:59:17 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 02:59:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 03:30:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 03:30:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 03:31:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 03:31:54 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/rag/admin/common-header.php on line 2
+[21-Apr-2022 03:31:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/dashboard.php:1) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 03:32:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 03:33:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 03:33:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 03:33:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:06:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:07:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:07:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:08:30 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:09:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:11:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:11:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:13:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:13:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:21:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:22:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 04:22:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/common-header.php:4) in /home4/sanmatob/public_html/rag/admin/dashboard.php on line 154
+[21-Apr-2022 04:23:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:24:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:24:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:26:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:30:48 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:30:55 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 10
+[21-Apr-2022 04:31:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:32:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:34:08 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:34:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:34:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:37:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 04:39:27 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home4/sanmatob/public_html/rag/admin/index.php on line 50
+[21-Apr-2022 04:45:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:47:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:48:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:49:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:51:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:54:23 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:56:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:56:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:57:05 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 04:59:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 05:01:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 05:02:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 05:04:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 05:05:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 05:06:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 59
+[21-Apr-2022 05:14:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 60
+[21-Apr-2022 05:15:43 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin/header.php:4) in /home4/sanmatob/public_html/rag/admin/index.php on line 62
+[21-Apr-2022 05:21:53 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/rag/admin/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/rag/admin/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/rag/admin/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Thu, 21 A...', '<!DOCTYPE html ...')
+#2 /home4/sanmatob/public_html/rag/admin/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/rag/admin/action.php(212): PHPMailer->send()
+#4 /home4/sanmatob/public_html/rag/admin/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/rag/admin/lib/PHPMailer/class.phpmailer.php on line 1714
+[21-Apr-2022 07:43:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/rag/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/rag/admin-rag-192/student-data.php on line 316
+[21-Apr-2022 08:06:52 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Thu, 21 A...', '<!DOCTYPE html ...')
+#2 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/rag/admin-rag-192/action.php(214): PHPMailer->send()
+#4 /home4/sanmatob/public_html/rag/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1714
+[21-Apr-2022 08:09:29 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Thu, 21 A...', '<!DOCTYPE html ...')
+#2 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/rag/admin-rag-192/action.php(214): PHPMailer->send()
+#4 /home4/sanmatob/public_html/rag/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1714
+[21-Apr-2022 08:10:39 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Thu, 21 A...', '<!DOCTYPE html ...')
+#2 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/rag/admin-rag-192/action.php(214): PHPMailer->send()
+#4 /home4/sanmatob/public_html/rag/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1714
+[21-Apr-2022 08:48:32 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Thu, 21 A...', '<!DOCTYPE html ...')
+#2 /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/rag/admin-rag-192/action.php(214): PHPMailer->send()
+#4 /home4/sanmatob/public_html/rag/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/rag/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1714
+[12-May-2022 08:57:09 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[12-May-2022 08:57:19 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[12-May-2022 08:57:19 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[12-May-2022 08:57:33 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[12-May-2022 08:57:33 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[17-May-2022 01:58:04 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 01:58:47 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 01:58:47 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[17-May-2022 01:59:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 01:59:07 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[17-May-2022 02:24:23 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 02:24:23 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[17-May-2022 02:25:07 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 02:25:22 America/Chicago] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'sanmatob_manoj'@'localhost' (using password: YES) in /home4/sanmatob/public_html/rag/admin-rag-192/config.php on line 25
+[17-May-2022 02:25:22 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home4/sanmatob/public_html/rag/admin-rag-192/index.php on line 43
+[11-Jun-2022 03:10:50 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: SMTP Error: Could not authenticate. in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1714
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1557): PHPMailer->smtpConnect(Array)
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1340): PHPMailer->smtpSend('Date: Sat, 11 J...', 'This is a multi...')
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1215): PHPMailer->postSend()
+#3 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(215): PHPMailer->send()
+#4 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#5 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1714
+[11-Jun-2022 07:05:29 America/Chicago] PHP Warning:  require(library_php_excel/Classes/PHPExcel.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/import_excel_operation.php on line 8
+[11-Jun-2022 07:05:29 America/Chicago] PHP Warning:  require(library_php_excel/Classes/PHPExcel.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/import_excel_operation.php on line 8
+[11-Jun-2022 07:05:29 America/Chicago] PHP Fatal error:  require(): Failed opening required 'library_php_excel/Classes/PHPExcel.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/sanmatob/public_html/ragp/admin-rag-192/import_excel_operation.php on line 8
+[15-Jun-2022 04:10:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/student-data.php on line 334
+[15-Jun-2022 08:18:59 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/student-data.php on line 319
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : internal error: Huge input lookup in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): wn%3Alocalgroupedresult%26socpid%3D1&amp;amp;ei=VdijU5ryPI25uAT28YLIAQ&amp;amp;usg=AFQjC in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string():                                                                                ^ in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : attributes construct error in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string():  in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Couldn't find end of Start Tag hyperlink line 2 in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string():  in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Premature end of data in tag hyperlinks line 2 in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string():  in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): Entity: line 2: parser error : Premature end of data in tag worksheet line 2 in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string():  in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[20-Jun-2022 01:35:47 America/Chicago] PHP Warning:  simplexml_load_string(): ^ in /home4/sanmatob/public_html/ragp/admin-rag-192/library_php_excel/Classes/PHPExcel/Reader/Excel2007.php on line 645
+[27-Jun-2022 02:56:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/student-data.php on line 301
+[27-Jun-2022 02:56:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jun-2022 02:56:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jun-2022 02:56:35 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/register.php on line 150
+[27-Jun-2022 05:44:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jun-2022 07:07:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jun-2022 22:09:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[28-Jun-2022 04:21:57 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[28-Jun-2022 04:40:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[28-Jun-2022 05:43:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[28-Jun-2022 06:36:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[29-Jun-2022 04:57:16 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[30-Jun-2022 07:58:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[30-Jun-2022 08:41:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[01-Jul-2022 03:31:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[01-Jul-2022 06:44:47 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[02-Jul-2022 03:15:46 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[02-Jul-2022 07:10:41 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[04-Jul-2022 01:17:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[04-Jul-2022 03:50:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[05-Jul-2022 02:50:06 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[05-Jul-2022 09:13:54 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[05-Jul-2022 22:24:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[08-Jul-2022 02:11:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[08-Jul-2022 03:48:22 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[09-Jul-2022 13:56:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[09-Jul-2022 13:56:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[09-Jul-2022 13:56:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[11-Jul-2022 03:14:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[11-Jul-2022 08:59:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[12-Jul-2022 05:39:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[13-Jul-2022 04:33:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[13-Jul-2022 06:07:50 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[13-Jul-2022 08:14:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[13-Jul-2022 09:00:29 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[14-Jul-2022 02:45:11 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[14-Jul-2022 03:55:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[14-Jul-2022 05:42:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[14-Jul-2022 06:42:39 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[14-Jul-2022 09:00:07 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[15-Jul-2022 01:15:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[15-Jul-2022 02:23:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[15-Jul-2022 06:21:32 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[16-Jul-2022 02:01:53 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[16-Jul-2022 02:38:31 America/Chicago] PHP Warning:  require(vendor2/autoload.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:38:31 America/Chicago] PHP Warning:  require(vendor2/autoload.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:38:31 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor2/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:40:35 America/Chicago] PHP Warning:  require(vendor2/autoload.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:40:35 America/Chicago] PHP Warning:  require(vendor2/autoload.php): failed to open stream: No such file or directory in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:40:35 America/Chicago] PHP Fatal error:  require(): Failed opening required 'vendor2/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 10
+[16-Jul-2022 02:52:42 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 02:55:28 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 02:58:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:01:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:11:24 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:12:29 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:12:32 America/Chicago] PHP Fatal error:  Cannot declare class PHPMailer, because the name is already in use in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 28
+[16-Jul-2022 03:16:11 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:16:14 America/Chicago] PHP Fatal error:  Cannot declare class PHPMailer, because the name is already in use in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 28
+[16-Jul-2022 03:19:09 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:19:12 America/Chicago] PHP Fatal error:  Cannot declare class PHPMailer, because the name is already in use in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 28
+[16-Jul-2022 03:20:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:20:50 America/Chicago] PHP Fatal error:  Cannot declare class PHPMailer, because the name is already in use in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 28
+[16-Jul-2022 03:22:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:22:27 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[16-Jul-2022 03:23:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:23:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[16-Jul-2022 03:48:36 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 03:48:36 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[16-Jul-2022 06:46:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 06:46:25 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[16-Jul-2022 06:46:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[16-Jul-2022 06:46:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[16-Jul-2022 10:49:56 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[16-Jul-2022 10:50:58 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[16-Jul-2022 10:51:37 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[17-Jul-2022 08:40:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[18-Jul-2022 03:08:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[18-Jul-2022 03:39:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[18-Jul-2022 05:08:38 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[18-Jul-2022 07:15:09 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[18-Jul-2022 08:59:03 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[19-Jul-2022 05:46:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[19-Jul-2022 06:40:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[19-Jul-2022 07:36:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[19-Jul-2022 08:51:52 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[22-Jul-2022 08:05:27 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[22-Jul-2022 09:18:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[22-Jul-2022 09:18:24 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[22-Jul-2022 09:21:42 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 02:09:19 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 02:44:33 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 08:53:17 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 08:54:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 08:54:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[23-Jul-2022 14:55:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[25-Jul-2022 02:43:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[25-Jul-2022 02:43:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[26-Jul-2022 01:40:40 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/student-data.php on line 302
+[26-Jul-2022 01:40:44 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/student-data.php on line 302
+[26-Jul-2022 04:35:32 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(202): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 04:36:18 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(202): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 04:39:00 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(202): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 04:40:46 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(202): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(3): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 04:54:24 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(204): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 04:59:46 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(204): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:01:32 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(204): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:02:38 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(203): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:06:15 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(205): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:07:21 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(205): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:07:54 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(205): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:11:50 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(210): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:11:57 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(210): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:12:49 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(210): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:12:53 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(210): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:15:10 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:15:14 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:17:15 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:20:06 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:23:52 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:23:55 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:24:14 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/generate_card.php on line 4
+[26-Jul-2022 05:24:14 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php on line 2
+[26-Jul-2022 05:24:43 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 05:25:11 America/Chicago] PHP Fatal error:  Uncaught phpmailerException: Message body empty in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php:1272
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php(1212): PHPMailer->preSend()
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(217): PHPMailer->send()
+#2 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#3 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/lib/PHPMailer/class.phpmailer.php on line 1272
+[26-Jul-2022 16:48:20 Asia/Calcutta] PHP Fatal error:  Uncaught Mpdf\MpdfException: Unable to create output file uploads/file298.pdf in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php:9470
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(458): Mpdf\Mpdf->Output('uploads/file298...', 'F')
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#2 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php on line 9470
+[26-Jul-2022 06:36:40 America/Chicago] PHP Fatal error:  Uncaught Mpdf\MpdfException: Unable to create output file uploads/file298.pdf in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php:9470
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(458): Mpdf\Mpdf->Output('uploads/file298...', 'F')
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#2 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php on line 9470
+[26-Jul-2022 06:37:15 America/Chicago] PHP Fatal error:  Uncaught Mpdf\MpdfException: Unable to create output file uploads/file298.pdf in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php:9470
+Stack trace:
+#0 /home4/sanmatob/public_html/ragp/admin-rag-192/action.php(458): Mpdf\Mpdf->Output('uploads/file298...', 'F')
+#1 /home4/sanmatob/public_html/ragp/admin-rag-192/mail-verified.php(4): include('/home4/sanmatob...')
+#2 {main}
+  thrown in /home4/sanmatob/public_html/ragp/admin-rag-192/vendor2/mpdf/mpdf/src/Mpdf.php on line 9470
+[27-Jul-2022 03:04:02 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jul-2022 04:09:15 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jul-2022 04:10:25 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/common-header.php:4) in /home4/sanmatob/public_html/ragp/admin-rag-192/export_data.php on line 38
+[27-Jul-2022 04:14:20 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/add_winner_operation.php:8) in /home4/sanmatob/public_html/ragp/admin-rag-192/add_winner_operation.php on line 22
+[27-Jul-2022 04:15:26 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sanmatob/public_html/ragp/admin-rag-192/add_winner_operation.php:8) in /home4/sanmatob/public_html/ragp/admin-rag-192/add_winner_operation.php on line 22

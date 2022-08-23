@@ -1,0 +1,3 @@
+[11-Jun-2022 07:56:18 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sanmatob/public_html/ragp/admin-rag-192/ajax/ajaxverifystudent.php on line 6
+[11-Jun-2022 07:56:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sanmatob/public_html/ragp/admin-rag-192/ajax/ajaxverifystudent.php on line 6
+[11-Jun-2022 07:57:04 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home4/sanmatob/public_html/ragp/admin-rag-192/ajax/ajaxverifystudent.php on line 6

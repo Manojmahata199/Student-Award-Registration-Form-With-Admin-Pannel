@@ -1,0 +1,17 @@
+[25-Jun-2022 08:26:50 America/Chicago] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 29
+[25-Jun-2022 08:26:55 America/Chicago] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 29
+[25-Jun-2022 08:27:03 America/Chicago] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 29
+[25-Jun-2022 08:27:22 America/Chicago] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 29
+[25-Jun-2022 08:27:26 America/Chicago] PHP Warning:  Use of undefined constant mysqli_num_rows - assumed 'mysqli_num_rows' (this will throw an Error in a future version of PHP) in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 29
+[13-Jul-2022 04:24:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:24:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
+[13-Jul-2022 04:24:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:24:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
+[13-Jul-2022 04:25:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:25:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
+[13-Jul-2022 04:25:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:25:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
+[13-Jul-2022 04:26:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:26:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
+[13-Jul-2022 04:26:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 19
+[13-Jul-2022 04:26:22 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home4/sanmatob/public_html/ragp/ajax/get_board.php on line 30
